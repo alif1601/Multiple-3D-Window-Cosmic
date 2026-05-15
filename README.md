@@ -1,12 +1,29 @@
 # Cosmic Nexus Multi Window
 
-Run:
+A futuristic multi-window 3D scene built with TypeScript, Three.js, and Vite.
+
+## Features
+
+- True multi-window scene syncing
+- BroadcastChannel communication
+- Orthographic camera viewport slicing
+- Cosmic plasma atoms
+- Smoke rings and particle aura
+- Energy bridge between windows
+- Magnetic cursor interaction
+- Click burst effect
+- Palette switching
+- Quality toggle
+- Debug panel
+
+## Tech Stack
+
+- TypeScript
+- Three.js
+- Vite
+- BroadcastChannel API
+
+## Installation
 
 ```bash
 npm install
-npm run dev
-```
-
-Open the local Vite URL in Chrome or Edge. Do not open `index.html` directly.
-
-If you see plain white page/buttons, you are opening the file directly or dependencies are not installed.
