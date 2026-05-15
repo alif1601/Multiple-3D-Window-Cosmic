@@ -1,4 +1,4 @@
-# Cosmic Nexus Multi Window
+# Multiple 3D Window Cosmic
 
 A futuristic multi-window 3D scene built with TypeScript, Three.js, and Vite.
 
