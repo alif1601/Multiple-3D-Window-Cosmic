@@ -27,3 +27,5 @@ A futuristic multi-window 3D scene built with TypeScript, Three.js, and Vite.
 
 ```bash
 npm install
+npm run dev
+npm run preview
